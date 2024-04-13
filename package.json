@@ -1,0 +1,26 @@
+{
+  "name": "popular-cities",
+  "version": "2.0.0",
+  "description": "Simple package with geolocations for popular cities across the world",
+  "main": "index.mjs",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Crakzzy/popular-cities.git"
+  },
+  "keywords": [
+    "geolocation",
+    "cities",
+    "maps",
+    "geography",
+    "locations",
+    "latitude",
+    "longitude"
+  ],
+  "author": "Crakzzy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Crakzzy/popular-cities/issues"
+  },
+  "homepage": "https://github.com/Crakzzy/popular-cities"
+}
